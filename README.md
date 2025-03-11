@@ -1,4 +1,4 @@
 COSC320
 Rauda Alsheaili
 100061233
-Lab 6
+Lab 7
